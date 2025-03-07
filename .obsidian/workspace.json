@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "bd45a79da0ae4659",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d030eb65ba06286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0a5c5c9c1f5b35e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c89755324e7e4d75",
+    "type": "split",
+    "children": [
+      {
+        "id": "b07be5c3b4e82942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "829638434f77452d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7bfaedaae6d3b5fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e830d7b207af5a3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8dd4cbb65665c69c",
+    "type": "split",
+    "children": [
+      {
+        "id": "317c38e4ac3fe223",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "247d26dc09e30bde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "56f809106a20cad9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "600e3fa66f450029",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "27d7571542452860",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f0a5c5c9c1f5b35e",
+  "lastOpenFiles": [
+    "Templates/Vulnerability Scanning.md",
+    "Templates/Nmap.md",
+    "Templates/Untitled.md",
+    "Templates",
+    "Untitled",
+    "HackTheBox/Machines/Busqueda/Summary.md",
+    "HackTheBox/Machines/Busqueda/Untitled.md",
+    "HackTheBox/Machines/Busqueda/Proof.md",
+    "HackTheBox/Machines/Busqueda/Privilege Escalation.md",
+    "HackTheBox/Machines/Busqueda/Exploitation.md",
+    "HackTheBox/Machines/Busqueda/Enumeration.md",
+    "HackTheBox/Machines/Busqueda",
+    "HackTheBox/Machines/Support/Privilege Escalation.md",
+    "HackTheBox/Machines/Support/Exploitation.md",
+    "HackTheBox/Machines/Support/Enumeration.md",
+    "HackTheBox/Machines/Support/Untitled 2.md",
+    "HackTheBox/Machines/Support/Untitled 1.md",
+    "HackTheBox/Machines/Support/Untitled.md",
+    "HackTheBox/Machines/Support/PrivEsc/User.md",
+    "HackTheBox/Machines/Support/PrivEsc/Untitled.md",
+    "HackTheBox/Machines/Support/Exploit/Untitled.md",
+    "HackTheBox/Machines/Support/Enum/External.md",
+    "HackTheBox/Machines/Support/Enum/Untitled.md",
+    "HackTheBox/Machines/Support/Enum/Internal.md",
+    "HackTheBox/Machines/Support/Summary.md",
+    "HackTheBox/Machines/Support/Proof.md",
+    "HackTheBox/Machines/Support/Exploit",
+    "HackTheBox/Machines/Support/PrivEsc",
+    "HackTheBox/Machines/Support/Untitled",
+    "HackTheBox/Machines/Support/Exploitation",
+    "HackTheBox/Machines/Support/Enum",
+    "HackTheBox/Machines/Support",
+    "HackTheBox/Machines",
+    "My Hacking Adventures/HackTheBox/Busqueda/PrivEsc/User.md",
+    "My Hacking Adventures/HackTheBox/Busqueda/Enum/Internal.md",
+    "My Hacking Adventures/HackTheBox/Busqueda/Enum/External.md"
+  ]
+}
